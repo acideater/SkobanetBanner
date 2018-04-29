@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SKOBA.net</string>
+    <string name="title">SKOBA.net</string>
+    <string name="lead">We fix your website!</string>
+    <string name="main_text">(or make you a brand new one)</string>
+    <string name="phone">+1 (412) 4124124</string>
+    <string name="email">sos@skoba.net</string>
+    <string name="url">www.skoba.net</string>
+    <string name="button_text">Click here to know more</string>
+</resources>
