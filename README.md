@@ -33,7 +33,8 @@ Layout scales responsively for screen sizes in portrait mode, with no part of an
 * Elements are specified in dp, text is specified in sp.
 
 ## Screenshots
-
+<img src="https://github.com/acideater/SkobanetBanner/blob/master/screenshots/skobanet_portrait.png" width="280">
+<img src="https://github.com/acideater/SkobanetBanner/blob/master/screenshots/skobanet_landscape.png" width="540">
 
 ## Author
 
